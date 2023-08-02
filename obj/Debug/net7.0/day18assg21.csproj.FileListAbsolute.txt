@@ -1,0 +1,15 @@
+C:\Users\yaram\OneDrive\Desktop\simply learn Phase-1\Day-18\day18assg21\day18assg21\bin\Debug\net7.0\day18assg21.exe
+C:\Users\yaram\OneDrive\Desktop\simply learn Phase-1\Day-18\day18assg21\day18assg21\bin\Debug\net7.0\day18assg21.deps.json
+C:\Users\yaram\OneDrive\Desktop\simply learn Phase-1\Day-18\day18assg21\day18assg21\bin\Debug\net7.0\day18assg21.runtimeconfig.json
+C:\Users\yaram\OneDrive\Desktop\simply learn Phase-1\Day-18\day18assg21\day18assg21\bin\Debug\net7.0\day18assg21.dll
+C:\Users\yaram\OneDrive\Desktop\simply learn Phase-1\Day-18\day18assg21\day18assg21\bin\Debug\net7.0\day18assg21.pdb
+C:\Users\yaram\OneDrive\Desktop\simply learn Phase-1\Day-18\day18assg21\day18assg21\obj\Debug\net7.0\day18assg21.csproj.AssemblyReference.cache
+C:\Users\yaram\OneDrive\Desktop\simply learn Phase-1\Day-18\day18assg21\day18assg21\obj\Debug\net7.0\day18assg21.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yaram\OneDrive\Desktop\simply learn Phase-1\Day-18\day18assg21\day18assg21\obj\Debug\net7.0\day18assg21.AssemblyInfoInputs.cache
+C:\Users\yaram\OneDrive\Desktop\simply learn Phase-1\Day-18\day18assg21\day18assg21\obj\Debug\net7.0\day18assg21.AssemblyInfo.cs
+C:\Users\yaram\OneDrive\Desktop\simply learn Phase-1\Day-18\day18assg21\day18assg21\obj\Debug\net7.0\day18assg21.csproj.CoreCompileInputs.cache
+C:\Users\yaram\OneDrive\Desktop\simply learn Phase-1\Day-18\day18assg21\day18assg21\obj\Debug\net7.0\day18assg21.dll
+C:\Users\yaram\OneDrive\Desktop\simply learn Phase-1\Day-18\day18assg21\day18assg21\obj\Debug\net7.0\refint\day18assg21.dll
+C:\Users\yaram\OneDrive\Desktop\simply learn Phase-1\Day-18\day18assg21\day18assg21\obj\Debug\net7.0\day18assg21.pdb
+C:\Users\yaram\OneDrive\Desktop\simply learn Phase-1\Day-18\day18assg21\day18assg21\obj\Debug\net7.0\day18assg21.genruntimeconfig.cache
+C:\Users\yaram\OneDrive\Desktop\simply learn Phase-1\Day-18\day18assg21\day18assg21\obj\Debug\net7.0\ref\day18assg21.dll
